@@ -4,6 +4,7 @@
 #
 # 2022 Dylan Rodrigues
 from hashlib import sha256
+# Used to compare lib with homemade
 
 # Initialize array of round constants :
 # (first 32 bits of the fractional parts of the cube roots of the first 64 primes 2...311)
