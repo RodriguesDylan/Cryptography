@@ -1,6 +1,19 @@
 # Cryptography
 Different crypto projects and algorithm. Used sources can be found as headers in the files.
 
+## Algorithm
+
+Repository of handmade algorithm for learning purposes and time comparisons.
+
+## HashCracker
+
+Different hash decoders using various methods.
+
+Current decoders :
+
+    hash_dictionnaryAttack
+
+
 ## passwords.txt
 
 TXT file containing the 10 000 most commonly used passwords of 2020. 
