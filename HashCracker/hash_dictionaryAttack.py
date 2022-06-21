@@ -1,11 +1,10 @@
-# __ hash_bruteforcer.py
+# __ hash_dictionaryAttack.py __
 #
 # https://github.com/RodriguesDylan/Cryptography/HashCracker/
 #
 # 2022 Dylan Rodrigues
 import hashlib
 import sys
-
 
 def MD5(message):
     x = hashlib.md5(message.encode('utf-8')).hexdigest()
