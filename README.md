@@ -1,6 +1,8 @@
 # Cryptography
 Different crypto projects and algorithm. Used sources can be found as headers in the files.
 
+Language used : Python 3.9.2
+
 ## Algorithm
 
 Repository of handmade algorithm for learning purposes and time comparisons.
