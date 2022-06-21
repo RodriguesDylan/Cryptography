@@ -16,5 +16,5 @@ Last verified on `Python 3.9.2`
 
 ### TO-DO
 
-  Loop for each hash function (currently need to select one function at a time) [ ]
-  Add full comments and documentation [ ]
+    Loop for each hash function (currently need to select one function at a time) [ ]
+    Add full comments and documentation [ ]
